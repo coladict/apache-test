@@ -1,0 +1,216 @@
+# /
+/MYMETA.json
+/MYMETA.yml
+/Makefile
+/Makefile.old
+/blib
+/lib
+/pm_to_blib
+
+# /c-modules/
+/c-modules/Makefile
+/c-modules/apache_httpd_test.h
+
+# /c-modules/authany/
+/c-modules/authany/Makefile
+/c-modules/authany/.libs
+/c-modules/authany/*.lo
+/c-modules/authany/*.slo
+/c-modules/authany/*.la
+/c-modules/authany/*.so
+/c-modules/authany/*.exp
+/c-modules/authany/*.lib
+
+# /c-modules/client_add_filter/
+/c-modules/client_add_filter/Makefile
+/c-modules/client_add_filter/.libs
+/c-modules/client_add_filter/*.lo
+/c-modules/client_add_filter/*.slo
+/c-modules/client_add_filter/*.la
+/c-modules/client_add_filter/*.so
+/c-modules/client_add_filter/*.exp
+/c-modules/client_add_filter/*.lib
+
+# /c-modules/eat_post/
+/c-modules/eat_post/Makefile
+/c-modules/eat_post/.libs
+/c-modules/eat_post/*.lo
+/c-modules/eat_post/*.slo
+/c-modules/eat_post/*.la
+/c-modules/eat_post/*.so
+/c-modules/eat_post/*.exp
+/c-modules/eat_post/*.lib
+
+# /c-modules/echo_post/
+/c-modules/echo_post/Makefile
+/c-modules/echo_post/.libs
+/c-modules/echo_post/*.lo
+/c-modules/echo_post/*.slo
+/c-modules/echo_post/*.la
+/c-modules/echo_post/*.so
+/c-modules/echo_post/*.exp
+/c-modules/echo_post/*.lib
+
+# /c-modules/echo_post_chunk/
+/c-modules/echo_post_chunk/Makefile
+/c-modules/echo_post_chunk/.libs
+/c-modules/echo_post_chunk/*.lo
+/c-modules/echo_post_chunk/*.slo
+/c-modules/echo_post_chunk/*.la
+/c-modules/echo_post_chunk/*.so
+/c-modules/echo_post_chunk/*.exp
+/c-modules/echo_post_chunk/*.lib
+
+# /c-modules/input_body_filter/
+/c-modules/input_body_filter/Makefile
+/c-modules/input_body_filter/.libs
+/c-modules/input_body_filter/*.lo
+/c-modules/input_body_filter/*.slo
+/c-modules/input_body_filter/*.la
+/c-modules/input_body_filter/*.so
+/c-modules/input_body_filter/*.exp
+/c-modules/input_body_filter/*.lib
+
+# /c-modules/list_modules/
+/c-modules/list_modules/Makefile
+/c-modules/list_modules/.libs
+/c-modules/list_modules/*.lo
+/c-modules/list_modules/*.slo
+/c-modules/list_modules/*.la
+/c-modules/list_modules/*.so
+/c-modules/list_modules/*.exp
+/c-modules/list_modules/*.lib
+
+# /c-modules/nntp_like/
+/c-modules/nntp_like/Makefile
+/c-modules/nntp_like/.libs
+/c-modules/nntp_like/*.lo
+/c-modules/nntp_like/*.slo
+/c-modules/nntp_like/*.la
+/c-modules/nntp_like/*.so
+/c-modules/nntp_like/*.exp
+/c-modules/nntp_like/*.lib
+
+# /c-modules/random_chunk/
+/c-modules/random_chunk/Makefile
+/c-modules/random_chunk/.libs
+/c-modules/random_chunk/*.lo
+/c-modules/random_chunk/*.slo
+/c-modules/random_chunk/*.la
+/c-modules/random_chunk/*.so
+/c-modules/random_chunk/*.exp
+/c-modules/random_chunk/*.lib
+
+# /c-modules/test_apr_uri/
+/c-modules/test_apr_uri/Makefile
+/c-modules/test_apr_uri/.libs
+/c-modules/test_apr_uri/*.lo
+/c-modules/test_apr_uri/*.slo
+/c-modules/test_apr_uri/*.la
+/c-modules/test_apr_uri/*.so
+/c-modules/test_apr_uri/*.exp
+/c-modules/test_apr_uri/*.lib
+
+# /c-modules/test_pass_brigade/
+/c-modules/test_pass_brigade/Makefile
+/c-modules/test_pass_brigade/.libs
+/c-modules/test_pass_brigade/*.lo
+/c-modules/test_pass_brigade/*.slo
+/c-modules/test_pass_brigade/*.la
+/c-modules/test_pass_brigade/*.so
+/c-modules/test_pass_brigade/*.exp
+/c-modules/test_pass_brigade/*.lib
+
+# /c-modules/test_rwrite/
+/c-modules/test_rwrite/Makefile
+/c-modules/test_rwrite/.libs
+/c-modules/test_rwrite/*.lo
+/c-modules/test_rwrite/*.slo
+/c-modules/test_rwrite/*.la
+/c-modules/test_rwrite/*.so
+/c-modules/test_rwrite/*.exp
+/c-modules/test_rwrite/*.lib
+
+# /c-modules/test_session/
+/c-modules/test_session/Makefile
+/c-modules/test_session/.libs
+/c-modules/test_session/*.lo
+/c-modules/test_session/*.slo
+/c-modules/test_session/*.la
+/c-modules/test_session/*.so
+/c-modules/test_session/*.exp
+/c-modules/test_session/*.lib
+
+# /c-modules/test_ssl/
+/c-modules/test_ssl/Makefile
+/c-modules/test_ssl/.libs
+/c-modules/test_ssl/*.lo
+/c-modules/test_ssl/*.slo
+/c-modules/test_ssl/*.la
+/c-modules/test_ssl/*.so
+/c-modules/test_ssl/*.exp
+/c-modules/test_ssl/*.lib
+
+# /t/
+/t/TEST
+/t/SMOKE
+/t/REPORT
+/t/logs
+/t/SKIP
+/t/.gdb-test-start
+/t/.debugging
+/t/core.*
+
+# /t/conf/
+/t/conf/mime.types
+/t/conf/apache_test_config.pm
+/t/conf/*.conf
+
+# /t/conf/ssl/
+/t/conf/ssl/httpd-passphrase.pl
+/t/conf/ssl/proxyssl.conf
+/t/conf/ssl/ssl.conf
+/t/conf/ssl/ca
+
+# /t/htdocs/apache/http_strict/
+/t/htdocs/apache/http_strict/send_hdr.pl
+
+# /t/htdocs/modules/access/htaccess/
+/t/htdocs/modules/access/htaccess/.htaccess
+
+# /t/htdocs/modules/cgi/
+/t/htdocs/modules/cgi/perl_echo.pl
+/t/htdocs/modules/cgi/perl.pl
+/t/htdocs/modules/cgi/bogus1k.pl
+/t/htdocs/modules/cgi/bogus-perl.pl
+/t/htdocs/modules/cgi/env.pl
+/t/htdocs/modules/cgi/nph-test.pl
+/t/htdocs/modules/cgi/stderr1.pl
+/t/htdocs/modules/cgi/stderr2.pl
+/t/htdocs/modules/cgi/stderr3.pl
+/t/htdocs/modules/cgi/nph-stderr.pl
+/t/htdocs/modules/cgi/ranged.pl
+/t/htdocs/modules/cgi/nph-foldhdr.pl
+/t/htdocs/modules/cgi/big.pl
+/t/htdocs/modules/cgi/not-modified.pl
+/t/htdocs/modules/cgi/nph-102.pl
+/t/htdocs/modules/cgi/empty.pl
+/t/htdocs/modules/cgi/pr37166.pl
+/t/htdocs/modules/cgi/action.pl
+/t/htdocs/modules/cgi/nph-dripfeed.pl
+/t/htdocs/modules/cgi/nph-interim1.pl
+/t/htdocs/modules/cgi/nph-interim2.pl
+/t/htdocs/modules/cgi/redirect.pl
+/t/htdocs/modules/cgi/xother.pl
+/t/htdocs/modules/cgi/unique-id.pl
+
+# /t/htdocs/modules/negotiation/query/
+/t/htdocs/modules/negotiation/query/*.pl
+
+# /t/htdocs/modules/rewrite/
+/t/htdocs/modules/rewrite/db.pl
+/t/htdocs/modules/rewrite/numbers.pl
+/t/htdocs/modules/rewrite/numbers2.pl
+
+# /t/modules/
+/t/modules/access.disabled
